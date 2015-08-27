@@ -1,0 +1,20 @@
+{
+  "name": "3d",
+  "version": "0.0.0",
+  "authors": [
+    "Xabi Errotabehere <github@keinu.net>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "three.js": "~0.71.0",
+    "tweenjs": "*",
+    "threex.dynamictexture": "*"
+  }
+}

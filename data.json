@@ -1,0 +1,1322 @@
+{
+	"types": [
+		{
+			"title": "Operational",
+			"code": "op",
+			"color": [22, 93, 40]
+		}, {
+			"title": "Foundation",
+			"code": "fd",
+			"color": [40, 98, 51]
+		}, {
+			"title": "User centered design",
+			"code": "ux",
+			"color": [213, 88, 47]
+		}, {
+			"title": "Legislative & Practice",
+			"code": "leg",
+			"color": [329, 100, 41]
+		}, {
+			"title": "Service Design & Delivery",
+			"code": "sdd",
+			"color": [263, 92, 29]
+		}
+	],
+	"streams": [
+		{
+			"title": "User Experience & Service Design",
+			"outcome": "Service Delivery",
+			"row": 1
+		}, {
+			"title": "Legislative & Practice",
+			"outcome": "Legislative & Practice integration",
+			"row": 2
+		}, {
+			"title": "Existing AVL Service Optimisation",
+			"outcome": "Working & Consolidated cross-Justice AVL service economy",
+			"row": 3
+		}, {
+			"title": "Quality Assurance (Research & Processes)",
+			"outcome": "Vastly improved processes and procedures across agencies & external access",
+			"row": 4
+		}, {
+			"title": "Extending Access",
+			"outcome": "Vastly improved transport, custody and access model",
+			"row": 5
+		}, {
+			"title": "Communication / Coordination & Connection",
+			"outcome": "Vastly improved intraagency communication & improved service standard",
+			"row": 6
+		}, {
+			"title": "Integrated Technology",
+			"outcome": "Consolidated technology access on open, scalable and flexible framework",
+			"row": 7
+		}, {
+			"title": "Analytics, Metrics, Data & Reporting",
+			"outcome": "Consolidated metrics, data and analytics – spatial modelling and information management & reporting",
+			"row": 8
+		}
+	],
+	"tiles": [
+		{
+			"title": "User Research",
+			"description": "Contextual Analysis<br />Engagement with users (interviews & task analysis)",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["analysis", "users"],
+			"type": "ux"
+		},{
+			"title": "User Research",
+			"description": "Contextual Analysis<br />Research synthesis Persona development",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["analysis", "research"],
+			"type": "ux"
+		},{
+			"title": "UX Design",
+			"description": "Service Map<br />Participatory Design & Prototype development",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["user experience", "design"],
+			"type": "ux"
+		},{
+			"title": "UX Design",
+			"description": "Design & Refine Prototype testing at Pilot Sites Evaluation / Create & iterate concepts",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["red"],
+			"type": "ux"
+		},{
+			"title": "UX Design",
+			"description": "Annotated Wireframes Development & Synthesis & model user requirements",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["red"],
+			"type": "ux"
+		},{
+			"title": "UX Design",
+			"description": "Design & Refine Prototype testing Pilot Sites Evaluation Integrated Technology Design",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["red"],
+			"type": "ux"
+		},{
+			"title": "UX Testing",
+			"description": "Usability Testing / Feedback & Incorporate Feedback Integrated Technology Design",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["blue", "red", "green"],
+			"type": "ux"
+		},{
+			"title": "Detailed Design",
+			"description": "Accessibility Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Service Design",
+			"description": "Service design innovation & embedding sustainable Capability Models",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Technology Enablement",
+			"description": "Service Models Capacity Building / Behavioural & Cultural Factors",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["blue"],
+			"type": "ux"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 1,
+			"start" : "2017-07-01",
+			"end" : "2017-09-30",
+			"tags" : ["blue"],
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Standards & Procedures<br />- Corrective Services<br />- Courts/ DPP<br />- Police",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["blue"],
+			"type": "ux"
+		},{
+			"title": "Foundational",
+			"description": "ALS, DPP, LA Courts, Police, JJ, J. Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["blue"],
+			"type": "ux"
+		},{
+			"title": "Analysis - Witness",
+			"description": "Consideration of Govt & Police & Expert Corroborative witnesses via AVL (Remote)",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["blue"],
+			"type": "leg"
+		},{
+			"title": "Analysis - Appearances by AVL",
+			"description": "Legislation for Domestic Violence & Sexual Assault – Remote Witness Rooms & AVL",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["blue"],
+			"type": "leg"
+		},{
+			"title": "First Appearances Analysis",
+			"description": "First Appearances (subsequent appearances for physical and AVL)",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["red"],
+			"type": "leg"
+		},{
+			"title": "Discussion Paper",
+			"description": "Legislation & Policy Discussion Paper",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["red"],
+			"type": "leg"
+		},{
+			"title": "Operating Procedures Review",
+			"description": "Feedback - Operating Procedures & Standards",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["red"],
+			"type": "leg"
+		},{
+			"title": "Communication & Change Management",
+			"description": "- All Agencies<br />- Policies & Procedures",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "leg"
+		},{
+			"title": "Integrated Technology Deployment",
+			"description": "Standards + Support Usability (WTR, DAT MCRM, Evidence, AVL",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "leg"
+		},{
+			"title": "Operations & Service Review",
+			"description": "Standards + Support Usability (WTR, DAT MCRM, Evidence, AVL",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["green"],
+			"type": "leg"
+		},{
+			"title": "On-going Review",
+			"description": "Data, reporting, metrics,",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 2,
+			"start" : "2017-07-01",
+			"end" : "2017-09-30",
+			"tags" : ["blue"],
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Technology Review & Support Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2014-10-01",
+			"end" : "2014-12-31",
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Technology Review & Support Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["blue"],
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Technology Review & Support Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["red"],
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Q/S Assessment AVL Operations of Courts & DPP Instructional Design & Training",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["red"],
+			"type": "op"
+		},{
+			"title": "Instructional Design & Training",
+			"description": "Courts & Facilities Design Review Monitoring",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["red"],
+			"type": "op"
+		},{
+			"title": "Operational Support & Service Support",
+			"description": "Service Support All Agencies Remote Witnesses",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "op"
+		},{
+			"title": "Service Design",
+			"description": "Factors for Improved Service & Court design, ODPP,Legal Aid and Lawyers, ALS, Juvenile Justice",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Service Design & Delivery",
+			"description": "Improved Service & Technology Support & Service Design Templates",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Integrated Technology",
+			"description": "Standards + Support & Procurement Models",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Guidelines",
+			"description": "Mobility & Accessibility Continuous Service Improvement",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "ux"
+		},{
+			"title": "Integrated Maintenance",
+			"description": "Support Model Guidelines",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 3,
+			"start" : "2017-07-01",
+			"end" : "2017-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Business Benefits Analysis",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2014-10-01",
+			"end" : "2014-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Analysis",
+			"description": "Transport Model Custody Model Delivery Points Engagement",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundational",
+			"description": "ALS,DPP,LA Courts, Police, Juvenile Justice, Justice Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 4",
+			"description": "Juvenile Justice Children’s Court Justice Health Forensic mental Health Network",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 4",
+			"description": "Juvenile Justice Children’s Court Justice Health Forensic mental Health Network",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Distributed Courtroom Research",
+			"description": "University of Western Sydney",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Foundation 4",
+			"description": "Juvenile Justice Children’s Court Justice Health Forensic mental Health Network",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Improved Quality",
+			"description": "Assurance & integrated Change management",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Improved Access",
+			"description": "Information & Data Transport Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Distributed Courtroom Research II",
+			"description": "University of Western Sydney",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Integrated Technology",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2017-07-01",
+			"end" : "2017-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Service Improvement",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 4,
+			"start" : "2017-10-01",
+			"end" : "2017-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Foundational",
+			"description": "ALS,DPP,LA Courts, Police, JJ, J. Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 1",
+			"description": "Police Witnesses (Expert & Corroborative)",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 1 & 2",
+			"description": "Civilians & Government Witnesses (Expert & Remote)",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 6",
+			"description": "Expanding Access to AVL for lawyers, detainees, family",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 3",
+			"description": "First Appearances Pilot & Prototypes",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 3",
+			"description": "First Appearances",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Transport Model",
+			"description": "Alternatives and Options",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Transport Model",
+			"description": "Efficiencies",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Access Model",
+			"description": "Improved Access Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2017-07-01",
+			"end" : "2017-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Continuous Collaboration",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 5,
+			"start" : "2017-10-01",
+			"end" : "2017-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Foundational",
+			"description": "ALS,DPP,LA Courts, Police, JJ, J. Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 6.",
+			"description": "ALS,DPP,LA Courts, Police, JJ, J. Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 6.",
+			"description": "- Update / Plan<br />- Status<br />- Calendar<br />- Communicate",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Access",
+			"description": "Online Information & Documents Evidence Pres. Status / Schedule",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Integrated Technology",
+			"description": "Pilot Control Panel Evidence / Wifi Screens & Display Design Standards",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Capacity Building",
+			"description": "Guidelines & Online training",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Instructional Design",
+			"description": "Practice and engagement",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Advanced Access",
+			"description": "Information & Documents & Reporting",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 6,
+			"start" : "2017-04-01",
+			"end" : "2017-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Accessibility QA, Change Management",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundational",
+			"description": "ALS,DPP,LA Courts, Police, JJ, J. Health Mental Health N/W",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2015-04-01",
+			"end" : "2015-06-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Framework",
+			"description": "Open-standards Framework",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Product Backlog",
+			"description": "Continuous Integration",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Configuration",
+			"description": "Open Architecture & Service Architecture<br /> Integrated Data Sources & Services",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Integration",
+			"description": "Deployment Planning – Configuration<br />Plurality of process structure, function",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2016-04-01",
+			"end" : "2016-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Open Support & Maintenance Planning",
+			"description": "Singularity of purpose",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2016-07-01",
+			"end" : "2016-09-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Standards",
+			"description": "Scalable and Sustainable standards",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2016-10-01",
+			"end" : "2016-12-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Integration",
+			"description": "Deployment Planning – Configuration Planning",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2017-01-01",
+			"end" : "2017-03-31",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Maintenance & Support Model",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2017-04-01",
+			"end" : "2017-06-30",
+			"tags" : ["green"],
+			"type": "sdd"
+		},{
+			"title": "Service Delivery",
+			"description": "Usability Testing & Validation of Service Models & Organisational Capacity Building",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 7,
+			"start" : "2017-07-01",
+			"end" : "2017-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Inventory & service analysis",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2015-01-01",
+			"end" : "2015-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Data & Metrics",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2015-04-01",
+			"end" : "2015-06-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Data Modelling",
+			"description": "Transport Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2015-07-01",
+			"end" : "2015-09-30",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Service Metrics",
+			"description": "Transport Model Spatial Temporal Patterns",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2015-10-01",
+			"end" : "2015-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Foundation 7. (Logistics)",
+			"description": "Transport Service Model",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2016-01-01",
+			"end" : "2016-03-31",
+			"tags" : ["green"],
+			"type": "fd"
+		},{
+			"title": "Business & Operational metrics and data. Consolidated Business Reporting",
+			"description": "",
+			"value": [{
+					"environmental": 20
+				}, {
+					"human": 10
+				}, {
+					"economical": 5
+			}],
+			"row" : 8,
+			"start" : "2016-04-01",
+			"end" : "2017-12-31",
+			"tags" : ["green"],
+			"type": "fd"
+		}
+	]
+}
